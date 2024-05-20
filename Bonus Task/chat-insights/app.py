@@ -97,7 +97,7 @@ import os
 load_dotenv()
 
 
-openai.api_key = os.getenv("YOUR_API_KEY")
+openai.api_key = os.getenv("sk-proj-uM3bGut32FNAnH2WILwOT3BlbkFJAP1KgOc03WMm6BuEX2H3")
 
 
 def chat_interface():
